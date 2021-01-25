@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,KAAK,EAAE,KAAK;CAMf;;AAVD,AAKI,IALA,CAKA,CAAC,CAAC;EACD,eAAe,EAAC,IAAI;EACpB,KAAK,EAAE,GAAG;CACV",
     "sources": [
-        "menu.scss"
+        "nav.scss"
     ],
     "names": [],
-    "file": "menu.css"
+    "file": "nav.css"
 }
