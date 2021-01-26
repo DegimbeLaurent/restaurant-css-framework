@@ -1,16 +1,9 @@
-.nav {
-  background: black;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  color: white;
+.col-sm {
+  padding: 3rem;
+  color: black;
 }
 
-.nav a {
-  text-decoration: none;
-  color: red;
+h1 {
+  text-align: center;
 }
 /*# sourceMappingURL=nav.css.map */
