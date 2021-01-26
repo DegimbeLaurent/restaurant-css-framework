@@ -1,0 +1,43 @@
+.transition {
+  margin-top: 2vh;
+  height: 10vh;
+  background-color: #57A0AA;
+  text-align: center;
+}
+
+.transition .test {
+  margin: 50px 0;
+  height: auto;
+}
+
+.transition .test .text-tans {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.article {
+  padding-top: 5vh;
+}
+
+.article .titre {
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.article section div {
+  height: 50%;
+  margin: auto 0;
+  padding: 2vh 0;
+  border-bottom: solid 2px rgba(0, 0, 0, 0.4);
+}
+
+.article section h3 {
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.article section p {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=welcome.css.map */
