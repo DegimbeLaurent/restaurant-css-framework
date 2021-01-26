@@ -28,3 +28,7 @@ Realized during the web developer training at Becode
 ## How do we install it ?
 
 ## Where is that from ?
+
+## organization :
+
+[Trello](https://trello.com/b/Jh0jxfuH/becode-projet-restaurant)
