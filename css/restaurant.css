@@ -1,0 +1,62 @@
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #eac960;
+}
+.navagation {
+  background-color: #3F3F3F;
+}
+.page-link {
+  background-color: #3F3F3F;
+  color: #eac960;
+}
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+  color: #eac960;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #eac960;
+}
+.navbar-light .navbar-brand {
+  color: #eac960;
+}
+.page-item.active .page-link {
+  color: #3F3F3F;
+  background-color: #eac960;
+}
+body h2 {
+  color:#3F3F3F;
+  background-color:rgb(87, 160, 170);
+  margin: 8px 0px;
+  padding: 2px;
+}
+.location{
+  background: black url(../assets/Moon_location.png) no-repeat center;
+  height: 304px;
+  color:black;
+  padding-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.location p{
+  background-color:rgb(87, 160, 170,0.6);
+  border-radius: 5%;
+  width: 35%;
+}
+.row{
+  margin-top: 25px;
+}
+P{
+  background-color:#3F3F3F;
+}
+button{
+  cursor: pointer;
+}
+.col-sm-12 p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.schedule{
+  height: 304px;
+  padding-top: 5%;
+}
