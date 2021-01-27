@@ -6,11 +6,12 @@
 }
 
 .transition .test {
-  margin: 50px 0;
+  margin: auto 0;
   height: auto;
 }
 
 .transition .test .text-tans {
+  height: 4vh;
   color: white;
   font-weight: bold;
   font-size: 2em;
