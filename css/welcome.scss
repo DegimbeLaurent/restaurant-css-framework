@@ -1,11 +1,15 @@
 @import 'color.scss';
 
+body{
+    position: relative;
+}
 
 .transition{
     margin-top: 2vh;
     height: 10vh;
     background-color: $colorBlue;
     text-align: center;
+    justify-content: center;
     .test{
         margin: auto 0;
         height: auto;
@@ -41,4 +45,9 @@
             font-size: 1.2em;
         }
     }
+}
+
+.foter{
+    position: relative;
+    bottom: 0;
 }
