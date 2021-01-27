@@ -1,8 +1,8 @@
 body {
   height: 100vh;
   text-align: center;
-  background-color: black;
-  color: #A0AA57;
+  background-color: #3F3F3F;
+  color: #eac960;
   position: relative;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: small;
@@ -19,12 +19,13 @@ body {
 
 .Cus h1 {
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 input, select, textarea {
-  width: 100%;
+  width: 50%;
   padding: 12px;
-  border: 1px solid #A0AA57;
+  border: 1px solid #eac960;
   border-radius: 4px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -36,19 +37,26 @@ textarea {
   height: 150px;
 }
 
+label {
+  display: block;
+}
+
 .mybutton {
-  width: 100%;
-  background-color: #A0AA57;
-  color: black;
-  border: none;
+  width: 50%;
+  background-color: #eac960;
+  color: #3F3F3F;
   padding: 12px 20px;
   margin-bottom: 16px;
+  margin-top: 16px;
   border-radius: 4px;
   cursor: pointer;
+  border: #3F3F3F solid 2px;
 }
 
 .mybutton:hover {
-  background-color: #57A0AA;
+  background-color: #3F3F3F;
+  border: #eac960 solid 3px;
+  color: white;
 }
 
 @media (min-width: 768px) {
