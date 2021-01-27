@@ -1,0 +1,56 @@
+@import "Color/color";
+body{
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+    color: $colorGreen;
+    position: relative;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+.image{
+    height: 30vh;
+    background-image: url(../assets/Images/full-moon-496873_1280.jpg);
+    background-color: black;
+    background-position: center;
+    background-size: 55%;
+    background-repeat: no-repeat;
+}
+.Cus{
+    h1{
+        margin-top: 15px;
+    }
+}
+input,select,textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid $colorGreen;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+textarea{
+    height: 150px;
+}
+.mybutton{
+    width: 100%;
+    background-color: $colorGreen;
+    color: black;
+    border: none;
+    padding: 12px 20px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    &:hover{
+        background-color: $colorBlue;
+    }
+}
+@media(min-width: 768px){
+    body{
+        font-size: large;
+    }
+    .image{
+        height: 90vh;
+    }
+}
