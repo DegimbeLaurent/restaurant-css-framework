@@ -1,10 +1,57 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navagation {
+  background-color: #3F3F3F;
+}
+
+.page-link {
+  background-color: #3F3F3F;
+  color: #eac960;
+}
+
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+  color: #eac960;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #eac960;
+}
+
+.navbar-light .navbar-brand {
+  color: #eac960;
+}
+
+.page-item.active .page-link {
+  color: #3F3F3F;
+  background-color: #eac960;
+}
+
 .col-sm {
   padding: 3rem;
   color: black;
 }
 
+.card {
+  background-color: #3F3F3F;
+}
+
 h1 {
   text-align: center;
+  color: #3F3F3F;
+}
+
+h5 {
+  color: #eac960;
+}
+
+p {
+  color: #eac960;
+}
+
+.buttonBackground {
+  background-color: #eac960;
 }
 
 /* Extra small devices (phones, 600px and down) */
