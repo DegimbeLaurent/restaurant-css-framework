@@ -67,4 +67,22 @@ label {
     height: 90vh;
   }
 }
-/*# sourceMappingURL=style.css.map */
+.navagation {
+  background-color: #3F3F3F;
+}
+
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+  color: #eac960;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #eac960;
+}
+
+.navbar-light .navbar-brand {
+  color: #eac960;
+}
+
+.buttonBackground {
+  background-color: #eac960;
+}
