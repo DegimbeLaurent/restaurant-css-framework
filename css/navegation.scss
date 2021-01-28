@@ -1,44 +1,28 @@
-
-//control the font of html
-html{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-
-//contrl background of pagination
-.page-item.active .page-link{
-    color: #3F3F3F;
-    background-color:#eac960  ;
-}
-//control background and color of the link in pagination
-.page-link{
+.navagation{
     background-color:#3F3F3F;
+    
+}
+
+.navbar-light .navbar-nav .nav-link .navbar-brand {
     color: #eac960;
 }
 
-//control the list of plates to eat.
-.col-sm{
-    padding: 3rem;
-    color: black;
+//contrl background of pagination
+.navbar-light .navbar-nav .nav-link {
+    color: #eac960;
 }
 
-.card{
-    background-color:#3F3F3F ; 
+.navbar-light .navbar-brand {
+    color: #eac960;
 }
 
-//control the Startes,Main Course and Desserts text
-h1{
-    text-align: center;
-    color: #3F3F3F ;
-}
-h5{
-    color: #eac960 ; 
-}
-p{
-    color: #eac960 ; 
+.buttonBackground{
+    background-color: #eac960;
 }
 
- /* Extra small devices (phones, 600px and down) */
- @media only screen and (max-width: 600px) {
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
     
     /*let the footer always down the screen  */
     .mobile{
