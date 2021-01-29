@@ -18,6 +18,7 @@ body {
 }
 
 .Cus h1 {
+  color: #eac960;
   margin-top: 15px;
   margin-bottom: 15px;
 }
@@ -67,3 +68,24 @@ label {
     height: 90vh;
   }
 }
+
+.navagation {
+  background-color: #3F3F3F;
+}
+
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+  color: #eac960;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #eac960;
+}
+
+.navbar-light .navbar-brand {
+  color: #eac960;
+}
+
+.buttonBackground {
+  background-color: #eac960;
+}
+/*# sourceMappingURL=contact.css.map */
