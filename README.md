@@ -22,7 +22,7 @@ Realized during the web developer training at Becode
 ## What does it look like ?
 https://degimbelaurent.github.io/restaurant-css-framework/
 ## Progress…
-
+it can always be changed
 ## What's in it ?
 
 ## How do we install it ?
