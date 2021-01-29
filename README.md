@@ -28,3 +28,8 @@ Realized during the web developer training at Becode
 ## How do we install it ?
 
 ## Where is that from ?
+Images from « pixabay » :https://pixabay.com/fr/,
+except Celestial bodies images from free software : « stellarium » :https://stellarium.org/fr/
+## organization :
+
+[Trello](https://trello.com/b/Jh0jxfuH/becode-projet-restaurant)
