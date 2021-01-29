@@ -1,0 +1,37 @@
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #eac960;
+}
+body h2 {
+  color:#3F3F3F;
+  margin: 8px 0px;
+  padding: 2px;
+}
+.row{
+  margin-top: 25px;
+}
+P{
+  background-color:#3F3F3F;
+  padding: 7px;
+}
+button{
+  cursor: pointer;
+}
+.col-sm-12 p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+.schedule{
+  height: 392px;
+  padding-top: 12%;
+  text-align: center;
+}
+.location {
+  background-image: url("../assets/Moon_location.png");
+  background-repeat: no-repeat;
+  min-height: 392px;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}

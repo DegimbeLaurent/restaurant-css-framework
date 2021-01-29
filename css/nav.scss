@@ -1,0 +1,85 @@
+
+//control the font of html
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+//contrl background of pagination
+.page-item.active .page-link{
+    color: #3F3F3F;
+    background-color:#eac960  ;
+}
+//control background and color of the link in pagination
+.page-link{
+    background-color:#3F3F3F;
+    color: #eac960;
+}
+
+//control the list of plates to eat.
+.col-sm{
+    padding: 3rem;
+    color: black;
+}
+
+.card{
+    background-color:#3F3F3F ; 
+}
+
+//control the Startes,Main Course and Desserts text
+h1{
+    text-align: center;
+    color: #3F3F3F ;
+}
+h5{
+    color: #eac960 ; 
+}
+p{
+    color: #eac960 ; 
+}
+
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+    
+    /*let the footer always down the screen  */
+    .mobile{
+        position: relative; 
+        bottom: 0%; 
+        width: 100%;
+        margin-top: 75%;
+        
+    }
+    
+  }
+
+   /* TAblet (tablets, 600px and up) */
+  @media only screen and (min-width: 600px){
+
+    /*let the footer always down the screen  */
+    .tablet{
+        position: absolute; 
+        bottom: 0%; 
+        width: 100%;
+    }
+     /* let the pagination on center*/
+     .navCenter{
+        padding-left: 510px;
+    }
+    
+  }
+
+
+   /* desktop (desktop, 768px and up) */
+  @media only screen and (min-width: 768px) {
+
+    /*let the footer always down the screen  */
+    .desktop{
+        position: absolute; 
+        bottom: 0%; 
+        width: 100%;
+    }
+     /* let the pagination on center*/
+    .navCenter{
+        padding-left: 510px;
+    }
+  } 
+  

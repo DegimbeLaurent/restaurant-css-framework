@@ -1,0 +1,74 @@
+
+//control de navagatioin bar
+.navagation{
+    background-color:#3F3F3F;
+    
+}
+
+//control de color of the names on the menu bar
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+    color: #eac960;
+}
+
+//contrl background of pagination
+.navbar-light .navbar-nav .nav-link {
+    color: #eac960;
+}
+
+//control de color of the names on the menu bar
+.navbar-light .navbar-brand {
+    color: #eac960;
+}
+
+//control de button background
+.buttonBackground{
+    background-color: #eac960;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+    /*let the footer always down the screen  */
+    .mobile{
+        position: relative; 
+        bottom: 0%; 
+        width: 100%;
+        margin-top: 75%;
+        
+    }
+    
+  }
+
+   /* TAblet (tablets, 600px and up) */
+  @media only screen and (min-width: 600px){
+
+    /*let the footer always down the screen  */
+    .tablet{
+        position: absolute; 
+        bottom: 0%; 
+        width: 100%;
+    }
+     /* let the pagination on center*/
+     .navCenter{
+        padding-left: 510px;
+    }
+    
+  }
+
+
+   /* desktop (desktop, 768px and up) */
+  @media only screen and (min-width: 768px) {
+
+    /*let the footer always down the screen  */
+    .desktop{
+        position: absolute; 
+        bottom: 0%; 
+        width: 100%;
+    }
+     /* let the pagination on center*/
+    .navCenter{
+        padding-left: 510px;
+    }
+  } 
+  
